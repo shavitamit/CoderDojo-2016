@@ -1,10 +1,11 @@
 # Welcome to CoderDojo 2016 -- Hosted by Thomson Reuters
 
-The sushi cards links are listed below for each track.  For those that are following the **HTML** and **JavaScript** tracks, you will also need to download a text editor such as [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io/)
+The sushi cards links are listed below for each track.  For those that are following the **HTML** and **JavaScript** tracks, you will also need to download a text editor such as [Sublime Text](https://www.sublimetext.com/) or [Atom](https://atom.io/).
 
 ### HTML
 - [Beginners](http://kata.coderdojo.com/wiki/My_First_Website)
 - [Intermediate](http://kata.coderdojo.com/wiki/Intermediate_HTML_CSS_Sushi)
+- <a href="http://example.com/" target="_blank">Hello, world!</a>
 
 ### JavaScript
 - [Beginners](http://kata.coderdojo.com/wiki/Beginner_Javascript_Sushi)
