@@ -1,4 +1,5 @@
-# Welcome to CoderDojo 2016 Hosted by Thomson Reuters
+# Welcome to CoderDojo 2016
+# Hosted by Thomson Reuters
 
 ## The sushi cards links are listed below for each track
 
