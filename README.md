@@ -27,7 +27,7 @@ February 27, 2016<br/>
 3 Times Square<br/>
 </strong></center>
 
-***8:00am  ***
+***8:00am***
 
 Mentors arrive onsite at 3 Times Square, organize on 16th floor
 
