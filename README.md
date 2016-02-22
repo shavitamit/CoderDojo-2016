@@ -34,8 +34,7 @@ Mentors arrive onsite at 3 Times Square, organize on 16th floor
 Check-in @ lobby of 3 Times Square, proceed to 16th floor
 
 ***8:30 &mdash; 8:40am***<br/>
-Introduction of CoderDojo (Brad)
-
+Introduction of CoderDojo (Brad)<br/>
 Introduction of Thomson Reuters 
 
 ***8:40 &mdash; 10:00am***<br/>
