@@ -26,3 +26,38 @@ CoderDojo NYC @ Thomson Reuters<br/>
 February 27, 2016<br/>
 3 Times Square<br/>
 </strong></center>
+
+***8:00am      ***
+
+Mentors arrive onsite at 3 Times Square, organize on 16th floor
+
+***8:00 &mdash; 8:15am              ***
+
+Check-in @ lobby of 3 Times Square, proceed to 16th floor
+
+***8:30 &mdash; 8:40am***
+
+Introduction of CoderDojo (Brad)
+
+Introduction of Thomson Reuters 
+
+***8:40   &mdash; 10:00am***
+
+Coding sessions begin with novice, beginner and intermediate tracks.  
+
+***10:00 &mdash; 10:15am  ***
+
+Snack break
+
+***10:15 &mdash; 11:15am    ***
+
+Coding sessions resume
+
+***11:15&mdash;12:15pm   ***
+
+Open forum for kids to share learning & projects
+
+***12:30pm              ***
+
+End of event
+
