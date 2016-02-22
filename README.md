@@ -21,7 +21,7 @@ Each link below contains the worksheets for each track.  If you just want to dow
 # Agenda
 <hr/>
 <center><strong>
-CoderDojo NYC @ Thomson Reuters
-February 27, 2016
-3 Times Square
+CoderDojo NYC @ Thomson Reuters<br/>
+February 27, 2016<br/>
+3 Times Square<br/>
 </strong></center>
