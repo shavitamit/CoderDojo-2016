@@ -18,8 +18,9 @@ Each link below contains the worksheets for each track.  If you just want to dow
 - <a href="http://kata.coderdojo.com/images/e/ea/WCD_01_Shark_Game_Level_v1.pdf" target="_blank">Shark Game (Beginners)</a>
 - <a href="http://kata.coderdojo.com/images/5/50/WCD_03_Monster_Multiplication.pdf" target="_blank">Monster Game (Advanced)</a>
 
+---
+
 # Agenda
-<hr/>
 <center><strong>
 CoderDojo NYC @ Thomson Reuters<br/>
 February 27, 2016<br/>
