@@ -2,8 +2,6 @@
 
 The sushi cards links are listed below for each track.  For those that are following the **HTML** and/or **JavaScript** tracks, the website for Mozilla's online editor is <a href="https://thimble.mozilla.org/" target="_blank">here</a>.
 
-[comment]: <> you will also need to download a text editor such as <a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a> or <a href="https://www.atom.io/" target="_blank">Atom</a>.
-
 Each link below contains the worksheets for each track.  If you just want to download the files, download this repository and unzip the track you want to follow.
 
 ### HTML Track
