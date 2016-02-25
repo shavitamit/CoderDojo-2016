@@ -1,6 +1,6 @@
 # Welcome to CoderDojo 2016 -- Hosted by Thomson Reuters
 
-The sushi cards links are listed below for each track.  For those that are following the **HTML** and/or **JavaScript** tracks, the website for Mozilla's online editor is <a href="https://thimble.mozilla.org/" target="_blank">here</a>.
+The sushi cards links are listed below for each track.  For those that are following the **HTML** and/or **JavaScript** tracks, the website for Mozilla's online editor is <a href="https://thimble.mozilla.org/" target="_blank">here</a>.  Please create an account or login if you already have one.  
 
 Each link below contains the worksheets for each track.  If you just want to download the files, download this repository and unzip the track you want to follow.
 
